@@ -1,0 +1,266 @@
+/* header */
+*{
+    margin: 0;. 
+}
+
+.golidiv{
+    display: flex;
+    max-width: 1500px;
+    height: 50px;
+    background-color: rgb(253, 253, 253);
+        align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+
+.igi img{
+    font-size: 20px;
+    width: 90px;
+    height: 80px;  
+}
+
+.proje1 ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    font-size: 25px;
+}
+
+.proje1 ul:hover{
+    color: chartreuse;
+    transition: 0.5s;
+}
+
+.b_ps button{
+    font-size: 15px; 
+    width: 70px;
+    height: 40px;
+    border-radius: 30px;
+    `
+}
+
+.b_ps button:hover{
+    background-color: chartreuse;
+    color: rgb(251, 251, 252)
+    transition: 1.4ms;
+}
+
+
+/* min */
+.classroyal{
+    display: flex;
+     max-width: 2500px;
+    height: 516px;
+    background-color: rgb(238, 235, 235);
+        align-items: center;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+    margin-top: 30px;
+}
+
+.classroyal div{
+    margin-right: 70px;
+}
+
+.classroyal h1{
+    margin-bottom: 20px;
+}
+
+.classroyal button{
+    margin-top: 20px;
+    width: 70px;
+    height:25px;
+    border-radius: 7px;
+}
+
+.classroyal img{
+    border-radius: 30px;
+}
+
+.ci{
+    margin-bottom: 20px;
+}
+
+.a-bcd{
+    margin-right: 60px;
+}
+
+.a-bcd button{
+    margin-right: 190px;
+    margin-top: 20px ;
+    background-color: rgb(128, 128, 141);
+    width: 70px;
+    height: 40px;
+}
+
+.p-ara{
+    margin-bottom: 15px;
+    color: rgb(46, 45, 45);
+
+}
+
+.p-mr{
+    margin-top: 15px;
+     color: rgb(46, 45, 45);
+}
+
+.i-me img{
+    border-radius: 40px;
+}
+
+.h-r2{
+    margin: 0 auto;
+}
+
+.x-sd   {
+   text-align: center;
+   margin-top: 40px;
+}
+
+.x-po div div{
+    
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+        align-items: flex-end;
+    flex-wrap: wrap;
+    align-content: stretch;
+    flex-direction: column-reverse;
+    text-align: center;
+    height: 300px;
+    padding: 20px;
+    box-sizing: border-box;
+
+
+    border-radius: 30px;
+}
+.v-ut{
+    display: flex;
+     max-width: 2500px;
+    height: 526px;
+    background-color: rgb(252, 252, 252);
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+    margin-top: 40px;    
+}
+
+.v-qw{
+    margin-right: 90px;
+}
+
+.v-qw h2{
+    margin-bottom: 20px;
+}
+
+.A-OP{
+    margin-bottom: 15px;
+}
+.v-ut div img{
+    border-radius: 40px;
+    margin-left: 30px;
+}
+
+.v-ut h2{
+    font-size: 30px;
+}
+
+.f-oo{
+    max-width: 2000px;
+    height: 300px;
+    background-color: #9c9c9e;
+   display: flex;
+}
+
+.x-po{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items:center;
+}
+.z-pp{
+    text-align: center;
+    margin-top: 35px;
+}
+
+.x-m{
+   
+    display: flex ;
+    gap: 90px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.x-m img{
+width: 120px;
+}
+
+.x-m div {
+     border: solid 2px #333;
+     padding: 10px;
+     border-radius: 10px;
+    background-color: #ebebeb;
+}
+
+.z-pu{
+    width: 55px;
+}
+
+.z-pi{
+    width: 55px;
+}
+
+.z-py{
+    width: 55px;
+}
+
+.s-pc{
+    
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        gap: 290px;
+    }
+
+
+.ss-rr{
+    margin-top: 30px;
+}
+
+.k-oi{
+    margin-top: 30px;
+}
+
+.ss-rr li{
+    margin-top: 10px;
+}
+
+.k-oi li{
+    margin-top: 10px;
+}
+
+.s-vg{
+    width: 55px;
+}
+
+.x-pl{
+    margin-top: 51px;
+}
+
+.g-pw svg {
+    width: 20px;
+    height: 20px;
+    text-align: center;
+}
